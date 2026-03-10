@@ -29,8 +29,7 @@ Deep-dive into the UCI Retail II dataset using PostgreSQL and Python — RFM seg
 > `PostgreSQL` · `Python` · `RFM Analysis` · `Cohort Analysis` · `Tableau`
 
 ### 🛒 [TheLook E-Commerce: RFM Customer Segmentation Analysis](https://github.com/MoKoul/TheLook-E-Commerce-RFM-Segmentation-PowerBI)
-End-to-end analytics engineering project on Google BigQuery using dbt Core.
-Built a Kimball-style star schema with 50+ data tests, full CI/CD via GitHub Actions, and a Looker Studio executive dashboard.
+End-to-end RFM segmentation analysis for TheLook e-commerce using Power BI Desktop and Google BigQuery public dataset. Built with DAX, star schema, and advanced Deneb Vega-Lite visuals — delivering clear insights and segment-specific recommendations to drive customer retention and revenue growth.
 >  `BigQuery` · `RFM Analysis`  · `Power BI`
 
 ### 🕵️ [Fraud Detection with PySpark & XGBoost](https://github.com/MoKoul/IEEE-CIS-Fraud-Detection-Spark-XGBoost)
