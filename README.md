@@ -1,6 +1,6 @@
 # Hi, I'm Mo 👋
 
-I'm a **Data Analyst & Analytics Engineer** passionate about turning raw data into reliable, decision-ready insights — from building clean data pipelines to crafting dashboards that actually get used.
+I'm a **Data Analyst** passionate about turning raw data into reliable, decision-ready insights — from building clean data pipelines to crafting dashboards that actually get used.
 
 ---
 
